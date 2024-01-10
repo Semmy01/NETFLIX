@@ -1,0 +1,137 @@
+*{
+    background-color: #8e0a0b;
+}
+.div1{
+    background-color: black;
+    height: 810px;
+    margin-top: 70px;
+    margin-left: 40px;
+    margin-right: 40px;
+    color: white;
+}
+#img1{
+    height: 120px;
+    width: 250px;
+    /* margin-left: 10px; */
+}
+.t1{
+    background-color: black;
+}
+#inp1{
+    width: 400px;
+    background-color: grey;
+    border-radius: 10px;
+    color: white;
+    height: 25px;
+}
+#t1{
+    padding-left: 320px;
+}
+::placeholder{
+    color: white;
+    padding-left: 10px;
+}
+.div2{
+    background-color: black;
+}
+.img_1{
+    width: 60px;
+    border-radius: 50px;
+}
+#td_1{
+    padding-left: 20px;
+    padding-top: 10px;
+}
+#sp1{
+    background-color: black;
+    color: gray;
+}
+#td_2{
+    padding-left: 10px;
+    padding-top: 10px;
+}
+#img2{
+    height: 70px;
+    width: 75px;
+}
+#td3{
+    padding-left: 220px;
+    
+}
+.sp1{
+    color: white;
+    background-color: black;
+}
+#td_4{
+    padding-left: 60px;
+    padding-right: 40px;
+
+}
+.ion1{
+    color: white;
+}
+.td_0{
+    padding-left: 40px;
+    background-color: black;
+    padding-top: 10px;
+}
+.ion2{
+    background-color: black;
+    color: red;
+    font-size: 25px;
+}
+.td_6{
+    background-color: black;
+    padding-left: 40px;
+}
+#img_m{
+    width: 930px;
+    height: 300px;
+    border-radius: 20px;
+}
+#td_7{
+    padding-top: 30px;
+}
+#td_8{
+    background-color: black;
+    padding-top: 20px;
+    padding-left: 70px;
+}
+#sel1{
+    background-color: black;
+    color: white;
+    border: none;
+}
+#str{
+    background-color: black;
+    font-size: 20px;
+}
+.td_7{
+    background-color: black;
+    padding-left: 50px;
+}
+#td_5{
+    padding-left: 20px;
+    padding-right: 30px;
+}
+.c1{
+    background-color: black;
+    padding-left: 30px;
+}
+.i1{
+    width: 299px;
+    height: 168px;
+    border-radius: 10px;
+}
+.c2{
+    background-color: black;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.str2{
+    background-color: black;
+    font-size: 17px;
+}
+
+
+
